@@ -1,0 +1,15 @@
+# Runtime dependencies used by this project
+fastapi
+uvicorn
+python-multipart
+defusedxml
+geopandas==1.2.0
+pyogrio==0.13.0
+shapely==2.2.0
+pyproj==3.8.0
+sqlalchemy>=2.0,<3.0
+
+# Phase 7 test and quality tools
+pytest>=8.0
+httpx>=0.27
+ruff>=0.9
