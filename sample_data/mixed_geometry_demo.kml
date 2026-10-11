@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>M8.3 Mixed Geometry Demo — Fictional Features</name>
+    <Placemark><name>Mixed Parcel</name><ExtendedData><Data name="feature_id"><value>M-001</value></Data></ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>80.2700,13.0800,0 80.2710,13.0800,0 80.2710,13.0810,0 80.2700,13.0810,0 80.2700,13.0800,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>Mixed Route</name><ExtendedData><Data name="feature_id"><value>M-002</value></Data></ExtendedData><LineString><coordinates>80.2720,13.0800,0 80.2730,13.0810,0</coordinates></LineString></Placemark>
+    <Placemark><name>Mixed Point</name><ExtendedData><Data name="feature_id"><value>M-003</value></Data></ExtendedData><Point><coordinates>80.2740,13.0820,0</coordinates></Point></Placemark>
+  </Document>
+</kml>

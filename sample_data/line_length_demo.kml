@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>M8.3 Line Demo — Fictional Routes</name>
+    <Placemark><name>Route A</name><ExtendedData><Data name="route_id"><value>R-101</value></Data></ExtendedData><LineString><tessellate>1</tessellate><coordinates>80.2700,13.0800,0 80.2710,13.0805,0 80.2720,13.0810,0</coordinates></LineString></Placemark>
+    <Placemark><name>Route B</name><ExtendedData><Data name="route_id"><value>R-102</value></Data></ExtendedData><LineString><tessellate>1</tessellate><coordinates>80.2740,13.0820,0 80.2750,13.0824,0 80.2762,13.0830,0</coordinates></LineString></Placemark>
+  </Document>
+</kml>

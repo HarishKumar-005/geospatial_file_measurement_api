@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>M8.3 Polygon Demo — Fictional Chennai Parcels</name>
+    <Placemark><name>Parcel A</name><ExtendedData><Data name="parcel_id"><value>A-001</value></Data></ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>80.2700,13.0800,0 80.2710,13.0800,0 80.2710,13.0810,0 80.2700,13.0810,0 80.2700,13.0800,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>Parcel B</name><ExtendedData><Data name="parcel_id"><value>B-002</value></Data></ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>80.2720,13.0800,0 80.2735,13.0800,0 80.2735,13.0810,0 80.2720,13.0810,0 80.2720,13.0800,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+    <Placemark><name>Parcel C</name><ExtendedData><Data name="parcel_id"><value>C-003</value></Data></ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>80.2700,13.0820,0 80.2712,13.0820,0 80.2712,13.0832,0 80.2700,13.0832,0 80.2700,13.0820,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>M8.3 Point Demo — Fictional Locations</name>
+    <Placemark><name>Survey Point 1</name><ExtendedData><Data name="point_id"><value>P-001</value></Data></ExtendedData><Point><coordinates>80.2705,13.0805,0</coordinates></Point></Placemark>
+    <Placemark><name>Survey Point 2</name><ExtendedData><Data name="point_id"><value>P-002</value></Data></ExtendedData><Point><coordinates>80.2745,13.0825,0</coordinates></Point></Placemark>
+  </Document>
+</kml>
